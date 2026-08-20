@@ -1,0 +1,72 @@
+[
+    {
+        "gpId": "GP1111",
+        "carat": "2ct",
+        "color": "D",
+        "clarity": "VVS2",
+        "cut": "Excellent",
+        "Cert-Number": "TEST001",
+        "tech": "HPHT",
+        "issueDate": "2026-01-10"
+    },
+    {
+        "gpId": "GP2222",
+        "carat": "1ct",
+        "color": "D",
+        "clarity": "VS1",
+        "cut": "Excellent",
+        "Cert-Number": "TEST002",
+        "tech": "CVD",
+        "issueDate": "2026-02-15"
+    },
+    {
+        "gpId": "GP3333",
+        "carat": "1.5ct",
+        "color": "D",
+        "clarity": "VVS1",
+        "cut": "Excellent",
+        "Cert-Number": "TEST003",
+        "tech": "MOISSANITE",
+        "issueDate": "2026-03-08"
+    },
+    {
+        "gpId": "GP151B",
+        "carat": "1ct",
+        "color": "D",
+        "clarity": "VVS1",
+        "cut": "Excellent",
+        "Cert-Number": "",
+        "tech": "MOISSANITE",
+        "issueDate": "2026-04-01"
+    },
+    {
+        "gpId": "GP067D",
+        "carat": "1ct",
+        "color": "D",
+        "clarity": "VVS1",
+        "cut": "Excellent",
+        "Cert-Number": "",
+        "tech": "MOISSANITE",
+        "issueDate": "2026-04-05"
+    },
+    {
+        "gpId": "GP041B",
+        "carat": "1ct",
+        "color": "D",
+        "clarity": "VVS1",
+        "cut": "Excellent",
+        "Cert-Number": "",
+        "tech": "MOISSANITE",
+        "issueDate": "2026-04-08"
+    },
+    {
+        "gpId": "GP031C",
+        "carat": "1ct",
+        "color": "D",
+        "clarity": "VVS1",
+        "cut": "Excellent",
+        "Cert-Number": "",
+        "tech": "MOISSANITE",
+        "issueDate": "2026-04-12"
+    }
+]
